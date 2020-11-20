@@ -3,8 +3,8 @@
 A simple To-Do app for your tasks. Add a new task functionality implemented with a delete task functionality on a long press. Dowload icon imitates a load of a task from a database.
 
 Packages used:
-mockito: ^4.1.3
-provider: ^4.0.4
+* mockito: ^4.1.3
+* provider: ^4.0.4
 
 To run the app, simply run flutter pub get from terminal.
 
